@@ -1,0 +1,1147 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"_get",
+				"_getCode"
+			],
+			[
+				"coupo",
+				"coupons_table"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"repea",
+				"repeat-x"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"categ",
+				"category_id"
+			],
+			[
+				"category",
+				"category_id"
+			],
+			[
+				"catego",
+				"category_id"
+			],
+			[
+				"Admin",
+				"AdminFunctions"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"req",
+				"request_ids"
+			],
+			[
+				"request_",
+				"request_ids"
+			],
+			[
+				"offs",
+				"offset	.offset"
+			],
+			[
+				"item",
+				"item_id"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"broshu",
+				"broshura_id"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"short",
+				"short_url"
+			],
+			[
+				"exist",
+				"exist_vote"
+			],
+			[
+				"new",
+				"new_vote"
+			],
+			[
+				"a",
+				"default"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"invite",
+				"invited_by"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"invi",
+				"invited_by"
+			],
+			[
+				"points_fo",
+				"points_for_invite"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"authRespo",
+				"authResponseChange"
+			],
+			[
+				"get",
+				"getUserInfo"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"reque",
+				"requestLogin"
+			],
+			[
+				"acces",
+				"accessToken"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"random",
+				"randomGenerator"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Calcu",
+				"CalculatorSlider"
+			],
+			[
+				"pregma",
+				"preg_match"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"image",
+				"image_name"
+			],
+			[
+				"preg_rep",
+				"preg_replace"
+			],
+			[
+				"uni",
+				"uniform"
+			],
+			[
+				"bakc",
+				"background-position"
+			],
+			[
+				"total",
+				"total_weight"
+			],
+			[
+				"erro",
+				"errorThrown"
+			],
+			[
+				"scrol",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"heigh",
+				"height_house"
+			],
+			[
+				"parent",
+				"parent_el"
+			],
+			[
+				"membershi",
+				"membership"
+			],
+			[
+				"send",
+				"sendFile"
+			],
+			[
+				"response",
+				"responseJSON"
+			],
+			[
+				"post",
+				"postfach"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"bas",
+				"base64_encode"
+			],
+			[
+				"paren",
+				"parent_object"
+			],
+			[
+				"eac",
+				"each	$.each()"
+			],
+			[
+				"parse",
+				"parseJSON"
+			],
+			[
+				"url",
+				"url_splited"
+			],
+			[
+				"fami",
+				"familyName"
+			],
+			[
+				"items",
+				"items_json"
+			],
+			[
+				"result",
+				"result10"
+			],
+			[
+				"event",
+				"event_data"
+			],
+			[
+				"base64",
+				"base64_decode"
+			],
+			[
+				"enc",
+				"encoded_data"
+			],
+			[
+				"unsub",
+				"unsubscribe_url"
+			],
+			[
+				"user_",
+				"user_email"
+			],
+			[
+				"json_d",
+				"json_decode"
+			],
+			[
+				"user",
+				"user_email"
+			],
+			[
+				"preg_repla",
+				"preg_replace_callback"
+			],
+			[
+				"ob_get_c",
+				"ob_get_contents"
+			],
+			[
+				"deco",
+				"decoded"
+			],
+			[
+				"PropEve",
+				"PropEventDiscount"
+			],
+			[
+				"Prop",
+				"PropEventMeals"
+			],
+			[
+				"Events",
+				"EventsEdit"
+			],
+			[
+				"reminde",
+				"reminders_label"
+			],
+			[
+				"icon",
+				"icon_suspended"
+			],
+			[
+				"ic",
+				"icon_paid"
+			],
+			[
+				"curr",
+				"current_subscriptions"
+			],
+			[
+				"memeb",
+				"membershipType"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"grou",
+				"group_id"
+			],
+			[
+				"campai",
+				"campaign_data"
+			],
+			[
+				"gro",
+				"group_id"
+			],
+			[
+				"technical_pd",
+				"technical_pdf_image"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"l",
+				"last_member"
+			],
+			[
+				"membership",
+				"membershipTypes"
+			],
+			[
+				"labe",
+				"label_type"
+			],
+			[
+				"app",
+				"append	.append"
+			],
+			[
+				"appe",
+				"append	.append"
+			],
+			[
+				"classes",
+				"classesSpecific"
+			],
+			[
+				"Dele",
+				"DeleteClass"
+			],
+			[
+				"dele",
+				"delegate	.delegate"
+			],
+			[
+				"val",
+				"val	.val()"
+			],
+			[
+				"ap",
+				"append	.append"
+			],
+			[
+				"appen",
+				"append	.append"
+			],
+			[
+				"role",
+				"role_string"
+			],
+			[
+				"check",
+				"checkbox_span"
+			],
+			[
+				"apen",
+				"appendTo	.appendTo()"
+			],
+			[
+				"checkbox",
+				"checkbox_span"
+			],
+			[
+				"append",
+				"appendTo	.appendTo()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 110.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: bs3-html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"empty",
+				"Snippet: Snippet: Html special chars empty space"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"snippet:emp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"bs3-butt",
+				"Snippet: bs3-button-default"
+			],
+			[
+				"bs3-input-tex",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"bs3-form",
+				"Snippet: bs3-form"
+			],
+			[
+				"Snippet: closu",
+				"Snippet: bs3-block-button-success"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"special",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"charac",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"less",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation';",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/K/xampp/htdocs/android-projects/photo-gallery/index.js",
+		"/K/xampp/htdocs/android-projects/photo-gallery/index.html",
+		"/F/Software/PhoneJS/extracted/Demos/KitchenSink/views/Gallery.html",
+		"/K/xampp/htdocs/android-projects/photo-gallery/views/home.css",
+		"/K/xampp/htdocs/android-projects/photo-gallery/views/newest.html",
+		"/K/xampp/htdocs/android-projects/photo-gallery/views/newest.js",
+		"/F/Software/PhoneJS/extracted/Demos/KitchenSink/views/Gallery.js",
+		"/K/xampp/htdocs/android-projects/photo-gallery/views/about.html",
+		"/K/xampp/htdocs/android-projects/photo-gallery/views/home.js",
+		"/K/xampp/htdocs/android-projects/photo-gallery/views/home.html",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/index 4.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.easing.1.3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/cufon-replace.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/cufon-yui.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/Dynalight_400.font.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/FF-cash.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/hover-image.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/html5.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.bxSlider.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery-1.7.1.min.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.equalheights.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.prettyPhoto.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/tms-0.3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/tms_presets.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/index 3.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery-1.3.2.min 5.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.tools 6.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/builder 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/prototype 5.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/scriptaculous 4.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/effects 4.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/lightbox 4.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/prototype 4.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/scriptaculous 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery-1.3.2.min 4.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.custom 5.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.lightbox-0.5 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.lightbox-0.5.min 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.lightbox-0.5.pack 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.tools 5.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/contacts.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/gallery.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.tools 4.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.custom 4.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/builder 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/scriptaculous 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/prototype 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/lightbox 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/effects 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/tiny_mce_src.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/tiny_mce_popup.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/tiny_mce.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.tinymce.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.lightbox-0.5.pack 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.custom 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery-1.3.2.min 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.lightbox-0.5 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.lightbox-0.5.min 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.tools 3.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery-ui-1.10.3.custom.min 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.nivo.slider.pack 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/common 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/admin.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.fancybox.pack.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.fancybox.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery-ui-1.10.3.custom.min.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.nivo.slider.pack.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.nivo.slider.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/DD_belatedPNG_0.0.8a-min.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.uploadify-3.1.min.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/common.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.min.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery-ui.min.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/pirobox 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.tools 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.custom 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery-1.3.2.min 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/scriptaculous.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/prototype.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/lightbox.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/effects.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/effects 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/builder.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/prototype 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/lightbox 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/pirobox.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.tools.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.lightbox-0.5.pack.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.lightbox-0.5.min.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.lightbox-0.5.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.custom.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery-1.3.2.min.js",
+		"/F/Software/PhoneJS/extracted/Demos/KitchenSink/app.config.js",
+		"/F/Software/PhoneJS/extracted/Demos/KitchenSink/app.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/jquery.lightbox-0.5.css",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/shop 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/cont_slidr 2.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/acordn.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/cont_slidr.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/scroll.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/shop.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/F/Software/PhoneJS/extracted/Demos/KitchenSink/views/Gallery.css",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/catalog_form 2.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/catalog_form.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/front.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/calculator.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/calculator.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/home 2.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/catalog.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/catalog 2.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/contact.tpl",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/.htaccess 2",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/footer 3.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/footer 4.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/footer 5.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/news.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/news 2.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/news_form 2.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/news_form.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/header 4.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/header 5.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_product(",
+			"Sageacul-din-PVC-tip",
+			"7-Система-ARCTIC",
+			"Сграден-водопровод",
+			"Дренажни-канали",
+			"6-Канали-xDrain",
+			"4-Улуци-Elegance-140",
+			"3-Улуци-Classic-120",
+			"Системи-улуци",
+			"Цветова-Гама",
+			"Технически-данни",
+			"Предимства",
+			"Винилови-Обшивки-",
+			"Обшивки-за-Стрехи",
+			"Продукти",
+			"ro/",
+			"lang",
+			"galiardo",
+			"this.save",
+			"results",
+			"loading",
+			"calc_transport",
+			"subscribe",
+			"-360px 0",
+			".center",
+			"deleteItem",
+			"items",
+			"маршрут",
+			".catalog #products li",
+			"recaptcha",
+			"send_signal",
+			"a.pink",
+			"fancybox",
+			"ajax",
+			"modal",
+			"shorten",
+			"shareonwall",
+			"ShortenURL",
+			"referal",
+			"results",
+			"ooverClicked",
+			"select_firstEvents_fromCertainMonth",
+			"catalog",
+			"result",
+			"cycle",
+			"shorten",
+			"shorted",
+			"katsarov",
+			"ShortenURL",
+			"share",
+			"broshura",
+			"$this->cache->save",
+			"$this->cache->get",
+			"laguna",
+			"kalifornia",
+			"ref",
+			"променете",
+			"fillResults",
+			"gotoslide(0)",
+			"virtualhost",
+			"негова",
+			"ShortenURL",
+			"fillResults",
+			"App.User.invites",
+			"invite",
+			".app",
+			"fn",
+			"3",
+			"scroll",
+			"2472",
+			"share",
+			"CreateAppListeners",
+			"updateUser",
+			"invited_by",
+			"pdf_download",
+			"pdf",
+			"test",
+			"orient",
+			"nika",
+			"laguna",
+			"orient",
+			"nika",
+			"Wall height",
+			"Высота края стояка",
+			"id=\"k",
+			"result-table",
+			"INSERT INTO `products`",
+			"arles2",
+			"(\\'",
+			",\\'",
+			"\\\\'",
+			"'s",
+			"•",
+			"“",
+			"Тройник трубы",
+			"Угол желоба",
+			"Соединителъ желобов",
+			"Воронка",
+			"Соединитель труб",
+			"Хомут крепления трубы",
+			"Водосточная труба",
+			"Водосточный желоб",
+			"Заглушка желоба",
+			"AH321's",
+			"laptop's",
+			"it's",
+			"That's",
+			"you'll",
+			"you're",
+			"\\\"",
+			"\\'\\'",
+			"�",
+			"sendverifi",
+			"onVerifyShown",
+			"/c/verifications",
+			".search",
+			"filter",
+			"data-verification",
+			"done",
+			"savemember",
+			"bind_newsfeed_menu_parse",
+			"$('#menu-edit",
+			"$('#menu-edit li').remove();",
+			"edit_menu_parse",
+			"bind_pages_menu_parse",
+			"savemember",
+			"verification_code",
+			"onVerifyShown"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Sageacul",
+			"7-PPR-C-ARCTIC",
+			"Sistem-de-alimentare-cu-apă",
+			"Sistem-liniar-de-drenaj",
+			"6-XDRAIN",
+			"4-ELEGANCE-140",
+			"3-CLASSIC-120",
+			"Sisteme-pluviale",
+			"Gama-de-culori",
+			"Fişa-logistică",
+			"Fişa logistică",
+			"Avantaje",
+			"",
+			"Sageacul-din-PVC-tip",
+			"Produse",
+			"",
+			"burner",
+			"$this->cache->file->save",
+			"$this->cache->file->get",
+			"trapeza",
+			"galiardo",
+			"nika",
+			"kalifornia",
+			"laguna",
+			"orient",
+			"INSERT INTO `products_old`",
+			"nika",
+			"('",
+			",'",
+			"'",
+			"\\'",
+			"\\'s",
+			"&bull;",
+			"\"",
+			"Branch",
+			"Gutter angle",
+			"Pipe connector",
+			"Running outlet",
+			"Pipe connector",
+			"Pipe bracket",
+			"Pipe",
+			"Gutter stopend",
+			"AH321\\'s",
+			"laptop\\'s",
+			"it\\'s",
+			"That\\'s",
+			"you\\'ll",
+			"you\\'re",
+			"\"",
+			"\\\"",
+			"",
+			"[id=\"verification_code\"]:visible",
+			"",
+			"Results",
+			"Effective running outlet area",
+			"Number or running outlets",
+			"roof area",
+			"No",
+			"Yes",
+			"Faschia board presence",
+			"Wall height",
+			"Roof projection",
+			"Roof width",
+			"Roof length",
+			"Roof height",
+			"Roof dimensions",
+			"<td style=\"text-align: center;\"></td>",
+			"<td style=\"text-align: center;\"><?=$color?></td>",
+			"\\n",
+			"Menu.",
+			"button",
+			"Грешка",
+			"this.",
+			"self::",
+			"$this->email",
+			"mailing_emails",
+			"('",
+			"')",
+			"('",
+			"', '",
+			"('",
+			"\\n\\n",
+			"=\\\"",
+			"\\\">",
+			"=\\\"",
+			"\\\">",
+			"=\\\"",
+			"gallery2_",
+			"mailing_emails",
+			"\"",
+			".universal-item",
+			"\\n",
+			"",
+			"brown",
+			"silver",
+			"bejovo",
+			"bordo",
+			"brown",
+			"('",
+			"",
+			"localStorage",
+			"<i class=\"icon\"><img src=\"assets/img/img-icon.jpg\"></i>",
+			"$chat",
+			"",
+			"\\n",
+			"<area title=\"\"",
+			"",
+			"silver",
+			"grey",
+			"bejovo",
+			"white",
+			"",
+			"float: left; margin-right: 14px; margin-bottom: 10px;",
+			"",
+			"class=\"fancybox\"",
+			"",
+			"icon-time",
+			"<div class=\"media col-lg-6 col-md-6 col-xs-12 col-sm-12\">",
+			"<div class=\"media col-lg-6 col-md-6\">",
+			"col-sm-4 col-xs-4 col-md-2 col-lg-2",
+			"col-sm-2 col-xs-4 col-md-2 col-lg-2",
+			"col-sm-2 col-xs-3 col-md-2 col-lg-2",
+			"col-sm-2 col-xs-2 col-md-2 col-lg-2",
+			"advantages$1",
+			"$item",
+			"title_",
+			"attr(\\'data-rel\\')",
+			"data-rel="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "photo-gallery.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style.css",
+				"assets\\css\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"K:\\xampp\\htdocs\\closure\\learn-closure.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
