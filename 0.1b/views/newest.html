@@ -1,5 +1,11 @@
 <div data-options="dxView : { name: 'newest', title: 'Newest listed' } " >
     <div class="newest-view"  data-options="dxContent : { targetPlaceholder: 'content' } " >
-        <p>Newest items</p>
+        <div class="gallery" data-bind="dxGallery: { width: '100%', height: '100%', dataSource: data, showNavButtons: true }">
+            <div data-options="dxTemplate : { name: 'item' } " >
+                <div class="gallery-item">
+                    <img data-bind="attr: { src: $data.src }" />
+                </div>
+            </div>
+        </div>
     </div>
 </div>
