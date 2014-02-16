@@ -6,6 +6,11 @@
             load: function(){
                 return $.getJSON(base_url+'/newest');
             }
+        }),
+        popular: new DevExpress.data.CustomStore({
+            load: function(){
+                return $.getJSON(base_url+'/popular');
+            }
         })
     }
 })();
